@@ -1,0 +1,33 @@
+grupo;palavra_mae;frase;intencao
+IMOVEIS;imóveis;imóvel Salvador;Compra
+IMOVEIS;imóveis;apartamento Salvador;Compra
+IMOVEIS;imóveis;apartamento 3 quartos Salvador;Compra
+IMOVEIS;imóveis;apartamento 4 quartos Salvador;Compra
+IMOVEIS;imóveis;casa à venda Salvador;Compra
+IMOVEIS;imóveis;casa em condomínio Salvador;Compra
+IMOVEIS;imóveis;imóvel financiado Salvador;Compra
+IMOVEIS;imóveis;apartamento com entrada Salvador;Compra
+IMOVEIS;imóveis;apartamento alto padrão Salvador;Compra
+IMOVEIS;imóveis;apartamento Lauro de Freitas;Compra
+IMOVEIS;imóveis;casa Lauro de Freitas;Compra
+LOCACAO;locação;apartamento para alugar Salvador;Locação
+LOCACAO;locação;casa para alugar Salvador;Locação
+LOCACAO;locação;apartamento mobiliado Salvador;Locação
+LOCACAO;locação;sala comercial Salvador;Locação
+CONSORCIO;consórcio;consórcio carro;Compra
+CONSORCIO;consórcio;consórcio moto;Compra
+CONSORCIO;consórcio;consórcio imóvel;Compra
+CONSORCIO;consórcio;carta de crédito carro;Compra
+CONSORCIO;consórcio;carta de crédito imóvel;Compra
+CONSORCIO;consórcio;consórcio caminhão;Compra
+CONSORCIO;consórcio;consórcio terreno;Compra
+CONSORCIO;consórcio;consórcio fazenda;Compra
+CONSORCIO;consórcio;consórcio sítio;Compra
+CONSORCIO;consórcio;consórcio avião;Compra
+CONSORCIO;consórcio;consórcio serviços;Compra
+COMERCIAL;comercial;sala comercial Salvador;Compra
+COMERCIAL;comercial;loja comercial Salvador;Compra
+COMERCIAL;comercial;galpão comercial Salvador;Compra
+RURAL;rural;fazenda Bahia;Compra
+RURAL;rural;sítio Bahia;Compra
+RURAL;rural;chácara Bahia;Compra

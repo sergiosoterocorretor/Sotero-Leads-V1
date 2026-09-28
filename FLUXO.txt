@@ -1,0 +1,17 @@
+SOTERO LEADS V1
+
+CAPTAÇÃO: Google Ads / Meta Lead Ads / TikTok Lead Generation / Landing Pages
+        ↓
+WEBHOOK POST /api/leads
+        ↓
+NORMALIZAÇÃO + DUPLICIDADE
+        ↓
+SCORE 0-100
+  80+ QUENTE | 60-79 MORNO | <60 FRIO
+        ↓
+BANCO SQLite (V1) → Google Sheets / painel / e-mail / WhatsApp oficial
+
+WhatsApp: usar plataforma oficial e contatos com base legal/consentimento; não usar para burlar bloqueios.
+E-mail: usar SMTP/serviço transacional; manter dados mínimos necessários.
+LGPD: informar finalidade, coletar apenas dados necessários, registrar consentimento quando aplicável,
+proteger acesso e permitir gestão dos dados.
